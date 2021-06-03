@@ -36,7 +36,7 @@ Thumbs.db
 
 # Ignore built ts files
 dist/**/*
-
+src/dist/**
 # ignore yarn.lock
 yarn.lock
 
@@ -44,3 +44,5 @@ yarn.lock
 .eslintrc.json
 
 .prettierrc
+
+.parcel-cache
